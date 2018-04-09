@@ -1,0 +1,18 @@
+Compile command:
+gcc task1.c 
+
+The program must be run as root
+sudo ./a.out
+
+** IMPORTANT:
+- The attack takes on average 5-6 minutes to be successful. 
+
+
+**************** Machines' Info *****************
+DNS Server Appolo	VM1	192.168.15.7	-p 20401
+User Machine		VM2	192.168.15.8	-p 20402
+Attacker Machine	VM3	192.168.15.9	-p 20403
+*************************************************
+
+Note:
+Before running the attack, make sure the flush and restrat the bind9 server!

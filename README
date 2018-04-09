@@ -15,4 +15,4 @@ Attacker Machine	VM3	192.168.15.9	-p 20403
 *************************************************
 
 Note:
-Before running the attack, make sure the flush and restrat the bind9 server!
+Before running the attack, make sure to flush and restart the bind9 server!
